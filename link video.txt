@@ -1,1 +1,1 @@
-https://github.com/ermogenes/curso-raspberry-pi-cps
+https://ermogenes.github.io/curso-raspberry-pi-cps/
